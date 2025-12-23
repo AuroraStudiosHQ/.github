@@ -43,7 +43,7 @@ AI-powered vocal creation and coaching environment for creators.
 
 ## 👤 Founder
 
-AuroraStudiosHQ was founded by **Miguel Marques‑Tiegs**,  
+AuroraStudiosHQ was founded by **Miguel Marquez‑Tiegs**,  
 a visionary builder focused on AI-powered product ecosystems across multiple domains.
 
 ---
