@@ -1,26 +1,55 @@
 # AuroraStudiosHQ
 
-Welcome to **AuroraStudiosHQ** — a multi-product studio building AI-powered apps for trading, music, and beyond.
+Multi-product studio building AI-powered apps for trading, music, and creators.
 
-## 🚀 Our Mission
-We create intelligent, user-focused applications that combine technology, creativity, and automation.  
-Our goal is to build a growing ecosystem of apps under one unified brand.
+---
 
-## 🧩 Our Products
+## 🌌 Vision
 
-### **AuroraTrading**
-A next-generation AI trading assistant designed to help users analyze markets, automate strategies, and make smarter decisions.
+AuroraStudiosHQ develops modern, AI-driven applications designed to empower people in trading, music, and creative expression.  
+Our mission is to build products that combine clarity, creativity, and intelligent technology — always with a clean and intuitive user experience.
 
-### **AuroraMusic – Karaoke to go**
-A mobile karaoke experience powered by AI — sing anywhere, anytime, with smart vocal processing and instant backing tracks.
-
-## 🏗️ Our Vision
-AuroraStudiosHQ is the home for all current and future Aurora apps.  
 We focus on:
-- clean product architecture  
-- strong branding  
-- scalable workflows  
-- solo-founder efficiency
+- reducing complexity  
+- enhancing creativity  
+- delivering powerful tools with simple interfaces  
 
-## 📬 Contact
-More coming soon.
+---
+
+## 🛠 Our Products
+
+### **AuroraTrading**  
+AI-powered crypto trading platform with real-time insights, risk awareness, and a clean, focused UX.  
+→ https://github.com/AuroraStudiosHQ/AuroraTrading
+
+### **AuroraMusic**  
+AI-enhanced karaoke experience — simple, fun, and portable.  
+→ https://github.com/AuroraStudiosHQ/AuroraMusic
+
+### **AuroraMusicStudio**  
+AI-powered vocal creation and coaching environment for creators.  
+→ https://github.com/AuroraStudiosHQ/AuroraMusicStudio
+
+---
+
+## 🧩 Studio Structure
+
+- **Trading** → AuroraTrading  
+- **Music** → AuroraMusic  
+- **Creator Tools** → AuroraMusicStudio  
+- **Branding & Documentation** → `.github`  
+
+---
+
+## 👤 Founder
+
+AuroraStudiosHQ was founded by **Miguel Marques‑Tiegs**,  
+a visionary builder focused on AI-powered product ecosystems across multiple domains.
+
+---
+
+## 📫 Contact
+
+More channels coming soon.  
+For now:  
+→ https://github.com/AuroraStudiosHQ
